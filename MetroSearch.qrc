@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/MetroSearch">
+        <file>figure/metroIcon.png</file>
+        <file>figure/metroIcon2.png</file>
+        <file>figure/metroIcon3.png</file>
+        <file>figure/cityIcon.png</file>
+        <file>figure/greenLine.png</file>
+        <file>figure/orangeLine.png</file>
+        <file>figure/purpleLine.png</file>
+    </qresource>
+</RCC>
