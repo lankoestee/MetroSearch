@@ -14,7 +14,7 @@
 
 ## 实现展示
 
-<video width="100%" height="100%"  src="./pictures/使用演示录屏.mp4"  autoplay controls loop></video>
+![](./pictures/使用演示录屏.gif)
 
 ![](./pictures/可视化拼图.png)
 
